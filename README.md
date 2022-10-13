@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @goldmindcore
-- 👀 I’m interested in building websites that leaves a strong impressions.
+- 👀 I’m interested in building websites that leaves strong impressions.
 
 <!---
 goldmindcore/goldmindcore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
